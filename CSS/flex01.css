@@ -1,0 +1,62 @@
+.container {
+    background: pink;
+    height: 100vh;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column-reverse;
+    
+    /* flex-direction: row-reverse; */
+    /* flex-direction: column-reverse; */
+}
+
+.item {
+    width: 50px;
+    height: 50px;
+}
+
+.item1 {
+    background-color: aqua;
+}
+.item2 {
+    background-color: beige;
+}
+.item3 {
+    background-color: orange;
+}
+.item4 {
+    background-color: salmon;
+}
+.item5 {
+    background-color: rgb(160, 95, 143);
+}
+
+.item6 {
+    background-color: rgb(135, 160, 95);
+}
+.item7 {
+    background-color: pink;
+}
+.item8 {
+    background-color: plum;
+}
+.item9 {
+    background-color: yellow;
+}
+.item10 {
+    background-color: gold;
+}
+.item11 {
+    background-color: hotpink;
+}
+.item12 {
+    background-color: teal;
+}
+.item13 {
+    background-color: khaki;
+}
+.item14 {
+    background-color: white;
+}
+.item15 {
+    background-color: rosybrown;
+}
